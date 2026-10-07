@@ -7,6 +7,7 @@
       "rating": 4.6,
       "booked_count": 649,
       "tag": "Trending",
+      "price": 2699,
       "per_day_rent": 200,
       "out_of_stock": false
     },
@@ -17,7 +18,19 @@
       "rating": 4.5,
       "booked_count": 604,
       "tag": "Trending",
+      "price": 5010,
       "per_day_rent": 440,
+      "out_of_stock": false
+    },
+    {
+      "id": 19001,
+      "name": "Oculus Quest 3S",
+      "image": "/vr-on-rent-sharepal.webp",
+      "rating": 4.9,
+      "booked_count": 420,
+      "tag": "Trending",
+      "price": 2729,
+      "per_day_rent": 220,
       "out_of_stock": false
     },
     {
@@ -27,6 +40,7 @@
       "rating": 4.8,
       "booked_count": 397,
       "tag": "Trending",
+      "price": 3289,
       "per_day_rent": 260,
       "out_of_stock": false
     },
